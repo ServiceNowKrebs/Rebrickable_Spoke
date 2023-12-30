@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c4da7e4287ed5110ddfd4046cebb35bb" label="LEGO Sets Info" max_length="40" name="x_859308_rebrickab_lego_sets_info" type="collection">
+        <element label="Maximum Parts" max_length="20" name="max_parts" type="string"/>
+        <element label="Maximum Year" mandatory="true" max_length="10" name="max_year" type="string"/>
+        <element label="Minimum Parts" max_length="10" name="min_parts" type="string"/>
+        <element label="Minimum Year" mandatory="true" max_length="10" name="min_year" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order Results" max_length="200" name="ordering" type="string"/>
+        <element label="Page Number" max_length="10" name="page_number" type="string"/>
+        <element label="Page Size" max_length="10" name="page_size" type="string"/>
+        <element label="Search Term" max_length="400" name="search" type="string"/>
+        <element label="Theme ID" max_length="10" name="theme_id" type="string"/>
+    </element>
+</database>

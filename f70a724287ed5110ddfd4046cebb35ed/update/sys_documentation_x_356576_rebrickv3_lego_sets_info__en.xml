@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Rebrickv3 Lego Sets Info" language="en" table="x_356576_rebrickv3_lego_sets_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Rebrickv3 Lego Sets Info</label>
+            <language>en</language>
+            <name>x_356576_rebrickv3_lego_sets_info</name>
+            <plural>Rebrickv3 Lego Sets Infos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-28 00:34:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rebrickv3 Lego Sets Info</sys_name>
+            <sys_package display_value="Rebrickable Spoke" source="x_859308_rebrickab">f70a724287ed5110ddfd4046cebb35ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rebrickable Spoke">f70a724287ed5110ddfd4046cebb35ed</sys_scope>
+            <sys_update_name>sys_documentation_x_356576_rebrickv3_lego_sets_info__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-28 00:34:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Remote LEGO Set Results">8223a15e87299110ddfd4046cebb35dc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Remote LEGO Set Results</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_859308_rebrickab_st_remote_lego_set_results</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_859308_rebrickab.remote_lego_set_results_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-28 12:27:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a23a15e87299110ddfd4046cebb35df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remote LEGO Set Results</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rebrickable Spoke" source="x_859308_rebrickab">f70a724287ed5110ddfd4046cebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">f70a724287ed5110ddfd4046cebb35ed</sys_scope>
+        <sys_update_name>sys_app_module_9a23a15e87299110ddfd4046cebb35df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-28 12:27:58</sys_updated_on>
+        <timeline_page/>
+        <title>Remote LEGO Set Results</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
